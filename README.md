@@ -18,7 +18,7 @@ This project is a simple Java-based HTTP server that serves random motivational 
 ### Running Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Pradeeprawat-01/java-qoutes-app.git
+   
    cd java-quotes-app
    ```
 2. Ensure `quotes.txt` exists in the project directory and contains quotes (one per line).
